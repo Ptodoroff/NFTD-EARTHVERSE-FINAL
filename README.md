@@ -21,3 +21,10 @@ In case if you dont have MORALIS_API_KEY, You can get it here, And You can gener
     npm run dev
 
 
+
+
+    https://github.com/Ptodoroff/NFT-Metaverse-NFTD-stablecoin-contracts
+    https://github.com/Ptodoroff/NFTD--stablecoin--frontend
+    https://github.com/arindewangan/earthverse
+    https://github.com/arindewangan/nftd-earth
+
